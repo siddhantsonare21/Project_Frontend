@@ -1,0 +1,26 @@
+.card {
+    background-color: #0c071d;
+    box-shadow: rgba(215, 106, 255, 0.507) 0px 0px 20px;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+.menuItem {
+    border: 2px solid #c24dd0;
+}
+
+.activeMenuItem {
+    background-image: linear-gradient(150deg, #c21dd0, #7a72fa);
+    color: white;
+}
+
+.logoutButton {
+    color: white !important;
+    background-image: linear-gradient(150deg, #c21dd0, #ff005d);
+}
+
+.customButton {
+    background-image: linear-gradient(150deg, #c21dd0, #7a72fa);
+    color: white !important;
+
+}
